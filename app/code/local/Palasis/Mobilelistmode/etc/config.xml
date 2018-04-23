@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <modules>
+    <Palasis_Mobilelistmode>
+      <version>1.0.0</version>
+    </Palasis_Mobilelistmode>
+  </modules>
+  <global>
+    <blocks>
+      <catalog>
+        <rewrite>
+          <product_list_toolbar>Palasis_Mobilelistmode_Block_Catalog_Product_List_Toolbar</product_list_toolbar>
+        </rewrite>
+      </catalog>
+    </blocks>
+  </global>
+  <default>
+    <catalog>
+      <frontend>
+        <list_mode_mobile>grid-list</list_mode_mobile>
+      </frontend>
+    </catalog>
+  </default>
+</config>
