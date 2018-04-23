@@ -13,8 +13,13 @@ How?
 -----
 Relies on Zend_Http_UserAgent_Mobile to identify UAs (Browser's User Agent string) of mobile users.
 
+Where?
+-----
+New config setting becomes available at Settings > [CATALOG] > Catalog > Frontend
+
+'List Mode Mobile'
+
 Rewrites
 -----
 Mage_Catalog_Block_Product_List_Toolbar
-
 
