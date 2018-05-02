@@ -27,4 +27,15 @@
       </frontend>
     </catalog>
   </default>
+  <frontend>
+    <translate>
+      <modules>
+        <Palasis_Mobilelistmode>
+          <files>
+            <default>Palasis_Mobilelistmode.csv</default>
+          </files>
+        </Palasis_Mobilelistmode>
+      </modules>
+    </translate>
+  </frontend>
 </config>
